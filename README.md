@@ -66,6 +66,7 @@ The dashboard helps stakeholders understand customer trends over time, evaluate 
 
 <div align="center">
 Comparison Year Example 1
+
   <img src="images/year_comparison_2022_2021.png" width="500">
 
 <sub>Selected Years: 2022 vs 2021</sub>
@@ -73,6 +74,7 @@ Comparison Year Example 1
 
 <div align="center">
 Comparison Year Example 2
+
   <img src="images/year_comparison_2021_2020.png" width="500">
 
 <sub>Selected Years: 2021 vs 2020</sub>
@@ -97,6 +99,7 @@ The dashboards support dynamic filtering, allowing users to analyze sales and cu
 
 <div align="center">
 Before Filter Selection
+
   <img src="images/dashboard_before_filter.png" width="500">
 
 <sub>
@@ -112,6 +115,7 @@ City: All
 
 <div align="center">
 After Filter Selection
+
   <img src="images/dashboard_after_filter.png" width="500">
 
 <sub>
