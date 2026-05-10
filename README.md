@@ -30,8 +30,10 @@ The project contains two primary dashboards:
 
 ### Sales Dashboard
 
-![Sales Dashboard](images/sales_dashboard_overview.png)
-
+<div align="center">
+  <img src="images/sales_dashboard_overview.png" width="500">
+</div>
+<br>
 The Sales Dashboard provides an overview of sales performance and year-over-year business trends. 
 
 It enables users to monitor key metrics such as total sales, profit, and order quantity while analyzing monthly and weekly performance patterns.
@@ -40,16 +42,18 @@ Users can compare sales metrics between any two selected years, identify high an
 
 ### Customer Dashboard
 
-![Customer Dashboard](images/customer_dashboard_overview.png)
-
-The Customer Dashboard focuses on customer behavior, engagement, and profitability analysis. 
+<div align="center">
+  <img src="images/customer_dashboard_overview.png" width="500">
+</div>
+<br>
+The Customer Dashboard focuses on customer behavior, engagement, and 
+profitability analysis. 
 
 It provides insights into customer purchasing patterns, order distribution, and top-performing customers.
 
 The dashboard helps stakeholders understand customer trends over time, evaluate customer contribution to profitability, and analyze customer activity across multiple dimensions using interactive filters.
 
 ---
-
 ## Dashboard Features
 
 ### Interactive Features
@@ -60,13 +64,19 @@ The dashboard helps stakeholders understand customer trends over time, evaluate 
 - Interactive chart selections that update the entire dashboard
 - Dashboard-wide filtering based on user interaction
 
-#### Comparison Year Example 1
-**Selected Years:** 2022 vs 2021
-![Year Comparison 1](images/year_comparison_2022_2021.png)
+<div align="center">
+Comparison Year Example 1
+  <img src="images/year_comparison_2022_2021.png" width="500">
 
-#### Comparison Year Example 2
-**Selected Years:** 2021 vs 2020
-![Year Comparison 2](images/year_comparison_2021_2020.png)
+<sub>Selected Years: 2022 vs 2021</sub>
+</div>
+
+<div align="center">
+Comparison Year Example 2
+  <img src="images/year_comparison_2021_2020.png" width="500">
+
+<sub>Selected Years: 2021 vs 2020</sub>
+</div>
 
 ### Navigation & Controls
 
@@ -85,35 +95,34 @@ The dashboards support dynamic filtering, allowing users to analyze sales and cu
 - State
 - City
 
-#### Before Filter Selection
+<div align="center">
+Before Filter Selection
+  <img src="images/dashboard_before_filter.png" width="500">
 
-**Selected Filters**
-- Years: 2023 vs 2022
-- Category: All
-- Subcategory: All
-- Region: All
-- State: All
-- City: All
+<sub>
+Years: 2022 vs 2021 |
+Category: All |
+Subcategory: All |
+Region: Central, East |
+State: All |
+City: All
+</sub>
+</div>
+<br>
 
-![Before Filter](images/dashboard_before_filter.png) 
+<div align="center">
+After Filter Selection
+  <img src="images/dashboard_after_filter.png" width="500">
 
-#### After Filter Selection
-
-**Selected Filters**
-- Years: 2022 vs 2021
-- Category: Furniture, Office Supplies
-- Subcategory: All
-- Region: Central, East
-- State: All
-- City: All
-
-![After Filter](images/dashboard_after_filter.png)
-year: 2022, 2021
-category: Furniture, Office supplies
-sub-category: all
-region: Central, East
-state: all
-city: all
+<sub>
+Years: 2021 vs 2020 |
+Category: Furniture, Office Supplies |
+Subcategory: All |
+Region: Central, East, South |
+State: All |
+City: All
+</sub>
+</div>
 
 ---
 
