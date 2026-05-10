@@ -14,16 +14,6 @@ The project is designed as a portfolio project showcasing:
 
 ---
 
-## Project Objectives
-
-The project was developed to help stakeholders monitor sales performance, analyze customer behavior, and evaluate historical business trends through interactive reporting and dashboard visualizations.
-
-The dashboards enable users to compare business performance between any two selected years, helping identify sales patterns, customer purchasing behavior, profitability trends, and regional performance variations.
-
-The project also focuses on improving analytical usability through dashboard-wide interactivity, dynamic filtering, and cross-dashboard navigation, enabling users to explore business insights more efficiently.
-
----
-
 ## Dashboard Overview   
 
 The project contains two primary dashboards:
@@ -58,11 +48,10 @@ The dashboard helps stakeholders understand customer trends over time, evaluate 
 
 ### Interactive Features
 
-- Dynamic comparison between any two selected years with dashboard-wide automatic updates across all KPIs, charts, and dashboard text
+- Dynamic comparison between any two selected years.
 - All visualizations and KPIs dynamically update based on the selected filters
 - Cross-filtering between dashboard visualizations
 - Interactive chart selections that update the entire dashboard
-- Dashboard-wide filtering based on user interaction
 
 <div align="center">
 Comparison Year Example 1
