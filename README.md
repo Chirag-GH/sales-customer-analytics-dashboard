@@ -44,6 +44,7 @@ It provides insights into customer purchasing patterns, order distribution, and 
 The dashboard helps stakeholders understand customer trends over time, evaluate customer contribution to profitability, and analyze customer activity across multiple dimensions using interactive filters.
 
 ---
+
 ## Dashboard Features
 
 ### Interactive Features
