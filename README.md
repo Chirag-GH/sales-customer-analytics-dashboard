@@ -101,7 +101,7 @@ The dashboards support dynamic filtering, allowing users to analyze sales and cu
 Before Filter Selection
 <br>
   <img src="images/dashboard_before_filter.png" width="500">
-
+<br>
 <sub>
 Years: 2022 vs 2021 |
 Category: All |
@@ -117,7 +117,7 @@ City: All
 After Filter Selection
 <br>
   <img src="images/dashboard_after_filter.png" width="500">
-
+<br>
 <sub>
 Years: 2021 vs 2020 |
 Category: Furniture, Office Supplies |
