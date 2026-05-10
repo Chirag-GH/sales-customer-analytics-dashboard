@@ -30,6 +30,8 @@ The project contains two primary dashboards:
 
 ### Sales Dashboard
 
+![Sales Dashboard](images/sales_dashboard_overview.png)
+
 The Sales Dashboard provides an overview of sales performance and year-over-year business trends. 
 
 It enables users to monitor key metrics such as total sales, profit, and order quantity while analyzing monthly and weekly performance patterns.
@@ -37,6 +39,8 @@ It enables users to monitor key metrics such as total sales, profit, and order q
 Users can compare sales metrics between any two selected years, identify high and low-performing periods, and evaluate product subcategory performance across different regions and locations.
 
 ### Customer Dashboard
+
+![Customer Dashboard](images/customer_dashboard_overview.png)
 
 The Customer Dashboard focuses on customer behavior, engagement, and profitability analysis. 
 
@@ -49,13 +53,24 @@ The dashboard helps stakeholders understand customer trends over time, evaluate 
 ## Dashboard Features
 
 ### Interactive Features
+
 - Dynamic comparison between any two selected years with dashboard-wide automatic updates across all KPIs, charts, and dashboard text
 - All visualizations and KPIs dynamically update based on the selected filters
 - Cross-filtering between dashboard visualizations
 - Interactive chart selections that update the entire dashboard
 - Dashboard-wide filtering based on user interaction
 
+#### Comparison Year Example 1
+![Year Comparison 1](images/year_comparison_2022_2021.png)
+year 2022-2021
+
+#### Comparison Year Example 2
+![Year Comparison 2](images/year_comparison_2021_2020.png)
+year 2021-2020
+
+
 ### Navigation & Controls
+
 - Navigation buttons for switching between dashboards
 - Toggle buttons for showing and hiding filters
 - Export buttons for downloading dashboards as PDF or image files
@@ -70,6 +85,25 @@ The dashboards support dynamic filtering, allowing users to analyze sales and cu
 - Region
 - State
 - City
+
+#### Before Filter Selection
+![Before Filter](images/dashboard_before_filter.png) 
+year: 2023, 2022
+category: all
+sub-category: all
+region: all
+state: all
+city: all
+
+
+#### After Filter Selection
+![After Filter](images/dashboard_after_filter.png)
+year: 2022, 2021
+category: Furniture, Office supplies
+sub-category: all
+region: Central, East
+state: all
+city: all
 
 ---
 
