@@ -61,13 +61,12 @@ The dashboard helps stakeholders understand customer trends over time, evaluate 
 - Dashboard-wide filtering based on user interaction
 
 #### Comparison Year Example 1
+**Selected Years:** 2022 vs 2021
 ![Year Comparison 1](images/year_comparison_2022_2021.png)
-year 2022-2021
 
 #### Comparison Year Example 2
+**Selected Years:** 2021 vs 2020
 ![Year Comparison 2](images/year_comparison_2021_2020.png)
-year 2021-2020
-
 
 ### Navigation & Controls
 
@@ -87,16 +86,27 @@ The dashboards support dynamic filtering, allowing users to analyze sales and cu
 - City
 
 #### Before Filter Selection
-![Before Filter](images/dashboard_before_filter.png) 
-year: 2023, 2022
-category: all
-sub-category: all
-region: all
-state: all
-city: all
 
+**Selected Filters**
+- Years: 2023 vs 2022
+- Category: All
+- Subcategory: All
+- Region: All
+- State: All
+- City: All
+
+![Before Filter](images/dashboard_before_filter.png) 
 
 #### After Filter Selection
+
+**Selected Filters**
+- Years: 2022 vs 2021
+- Category: Furniture, Office Supplies
+- Subcategory: All
+- Region: Central, East
+- State: All
+- City: All
+
 ![After Filter](images/dashboard_after_filter.png)
 year: 2022, 2021
 category: Furniture, Office supplies
