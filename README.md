@@ -135,8 +135,7 @@ sales-customer-analytics-dashboard/
 ├── Sales Customer Dashboard.twbx      # Tableau packaged workbook containing dashboards and visualizations
 │
 ├── README.md                         	# Project overview and instructions
-├── LICENSE                             # License information for the repository
-└── .gitignore                          # Files and directories to be ignored by Git
+└── LICENSE                             # License information for the repository
 ```
 ---
 
