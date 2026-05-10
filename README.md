@@ -107,12 +107,7 @@ sales-customer-analytics-dashboard/
 
 ## Tableau Public Dashboard
 
-Add your Tableau Public dashboard link here:
-
-```
-https://public.tableau.com/views/SalesCustomerDashboard_17782340995890/SalesDashboard
-
-```
+[Tableau Public Link](https://public.tableau.com/views/SalesCustomerDashboard_17782340995890/SalesDashboard)
 
 ---
 
