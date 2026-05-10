@@ -14,6 +14,16 @@ The project is designed as a portfolio project showcasing:
 
 ---
 
+## Project Objectives
+
+The project was developed to help stakeholders monitor sales performance, analyze customer behavior, and evaluate historical business trends through interactive reporting and dashboard visualizations.
+
+The dashboards enable users to compare business performance between any two selected years, helping identify sales patterns, customer purchasing behavior, profitability trends, and regional performance variations.
+
+The project also focuses on improving analytical usability through dashboard-wide interactivity, dynamic filtering, and cross-dashboard navigation, enabling users to explore business insights more efficiently.
+
+---
+
 ## Dashboard Overview   
 
 The project contains two primary dashboards:
@@ -36,56 +46,34 @@ The dashboard helps stakeholders understand customer trends over time, evaluate 
 
 ---
 
-## Project Objectives
-
-### Sales Dashboard
-
-Analyze sales performance through:
-- Total Sales analysis
-- Total Profit analysis
-- Total Order Quantity analysis
-- Monthly sales trend analysis
-- Product subcategory comparison
-- Weekly sales and profit trends
-- Year-over-year KPI comparison
-
-### Customer Dashboard
-
-Analyze customer behavior and engagement through:
-- Total customer analysis
-- Total Sales per customer analysis
-- Total Order volume analysis
-- Customer trend analysis
-- Customer order distribution
-- Top 10 customers by profit
-- Historical customer performance tracking
-
----
-
 ## Dashboard Features
 
 ### Interactive Features
-- Dynamic comparison between any two selected years
-- Dashboard-wide automatic updates based on selected years
+- Dynamic comparison between any two selected years with dashboard-wide automatic updates across all KPIs, charts, and dashboard text
+- All visualizations and KPIs dynamically update based on the selected filters
+- Cross-filtering between dashboard visualizations
+- Interactive chart selections that update the entire dashboard
+- Dashboard-wide filtering based on user interaction
+
+### Navigation & Controls
 - Navigation buttons for switching between dashboards
-- Toggle buttons for showing and hiding dashboard filters
+- Toggle buttons for showing and hiding filters
 - Export buttons for downloading dashboards as PDF or image files
-- Interactive chart-based filtering and cross-filtering
+- Custom icons used for dashboard controls and navigation
 
 ### Filters
+
+The dashboards support dynamic filtering, allowing users to analyze sales and customer performance across different product categories and geographic locations. 
+
 - Category
 - Subcategory
 - Region
 - State
 - City
 
-### Custom UI Design
-- Custom dashboard icons and buttons
-- Custom navigation and export controls using Tableau objects
-- Customized dashboard layout and interaction design
-
 ---
 
+## Repository Structure
 
 ```
 sales-customer-analytics-dashboard/
@@ -104,7 +92,6 @@ sales-customer-analytics-dashboard/
 ├── LICENSE                             # License information for the repository
 └── .gitignore                          # Files and directories to be ignored by Git
 ```
-
 ---
 
 ## [Tableau Public Dashboard](https://public.tableau.com/views/SalesCustomerDashboard_17782340995890/SalesDashboard)
